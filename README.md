@@ -1,4 +1,4 @@
-Arithmetic Gather
+#~ Arithmetic Gather
 关于一些作者在学习过程中经常会遇到的有趣的以及常见的算法模型
 算法
 1.1动态规划
